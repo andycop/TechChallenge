@@ -9,5 +9,5 @@ rot13-reverse = str.maketrans(
     "",
     "")
 
-str.translate("(2pMJ)", rot13-reverse)
+str.translate("(u19I)", rot13-reverse)
 str.translate("uLLHKfhhLrnzKizvpJGKGsLipGzh_#hqvKpGarJ m MKr wGvF Lrnz bvLu pGqr", rot13-reverse)
